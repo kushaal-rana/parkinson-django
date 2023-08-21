@@ -1,1 +1,1 @@
-web gunicorn parkinson.wsgi:application --log-file -
+web gunicorn parkinsons.wsgi:application --log-file -
